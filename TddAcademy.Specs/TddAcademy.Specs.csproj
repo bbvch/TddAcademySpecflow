@@ -74,6 +74,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>FooSpeaks.feature</DependentUpon>
     </Compile>
+    <Compile Include="TennisScorerFeature.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TennisScorerFeature.feature</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -81,6 +86,10 @@
     <None Include="FooSpeaks.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>FooSpeaks.feature.cs</LastGenOutput>
+    </None>
+    <None Include="TennisScorerFeature.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>TennisScorerFeature.feature.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
