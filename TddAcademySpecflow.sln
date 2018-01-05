@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddAcademy", "TddAcademy\Td
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddAcademy.Facts", "TddAcademy.Facts\TddAcademy.Facts.csproj", "{7DA1F2E4-E24A-456D-99EC-8E8E49AF3D27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddAcademy.Specs", "TddAcademy.Specs\TddAcademy.Specs.csproj", "{CCD67C45-F7B0-45C2-8B80-D8539223FC75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7DA1F2E4-E24A-456D-99EC-8E8E49AF3D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DA1F2E4-E24A-456D-99EC-8E8E49AF3D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DA1F2E4-E24A-456D-99EC-8E8E49AF3D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD67C45-F7B0-45C2-8B80-D8539223FC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD67C45-F7B0-45C2-8B80-D8539223FC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD67C45-F7B0-45C2-8B80-D8539223FC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD67C45-F7B0-45C2-8B80-D8539223FC75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

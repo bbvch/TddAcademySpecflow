@@ -1,6 +1,6 @@
 ﻿namespace TddAcademy
 {
-    public class Foo : IBar
+    public class Foo
     {
         private readonly IBar bar;
 
